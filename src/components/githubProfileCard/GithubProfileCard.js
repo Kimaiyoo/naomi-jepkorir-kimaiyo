@@ -4,6 +4,7 @@ import SocialMedia from "../../components/socialMedia/SocialMedia";
 import {contactInfo, isHireable} from "../../portfolio";
 import emoji from "react-easy-emoji";
 import {Fade} from "react-reveal";
+import myImage from "../../assets/images/me.jpg";
 
 export default function GithubProfileCard({prof}) {
   if (isHireable) {
@@ -50,9 +51,9 @@ export default function GithubProfileCard({prof}) {
           </div>
           <div className="image-content-profile">
             <img
-              src={prof.avatarUrl}
-              alt={prof.name}
-              className="profile-image"
+            src={myImage}
+            alt="Naomi Kimaiyo"
+            className="profile-image"
             />
           </div>
         </div>
