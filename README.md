@@ -55,8 +55,10 @@ developerFolio/
 ├── .github/workflows/
 ├── package.json
 ├── README.md
+```
 
 ## 📬 Connect With Me
+
 - LinkedIn: [Naomi Jepkorir Kimaiyo](http://linkedin.com/in/naomi-jepkorir-kimaiyo/)
 
 - GitHub: [@Kimaiyoo](https://github.com/Kimaiyoo)
@@ -64,8 +66,10 @@ developerFolio/
 - Email: naomijepkorir18@gmail.com
 
 ## 📝 Acknowledgements
+
 Thanks to [@saadpasta](https://github.com/saadpasta) for creating the original [developerFolio](https://github.com/saadpasta/developerFolio) template that this project is based on.
 
 ## 📄 License
+
 This project is open source and available under the MIT License.
-```
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
