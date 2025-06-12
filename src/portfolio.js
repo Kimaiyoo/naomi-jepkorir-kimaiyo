@@ -93,7 +93,7 @@ const educationInfo = {
     {
       schoolName: "Kabarak University",
       logo: require("./assets/images/KabarakLogo.png"),
-      subHeader: "Master of Science in Computer Science",
+      subHeader: "Bachelor of Science in Computer Science",
       duration: "September 2021 - Dec 2025(Expected)",
       desc: "Focused on data science, machine learning,Cybersecurity and software engineering.",
       descBullets: [
@@ -223,9 +223,9 @@ const achievementSection = {
     {
      title: "Postman API Fundamentals Student Expert",
      subtitle: "Issued by Postman",
-     logo_path: "postman_logo.png", // Make sure this logo is saved
+     image: require("./assets/images/postman_logo.png"), // Make sure this logo is saved
      imageAlt: "Postman",
-     color_code: "#FF6C37", // Postman's brand color
+     //color_code: "#FF6C37", // Postman's brand color
      footerLink: [
         {name: "Certification",
            url: "https://api.badgr.io/public/assertions/PrT_SUmaR0e3BAFxtiLbNg?identity__email=naomijepkorir18%40gmail.com"
@@ -299,7 +299,7 @@ const resumeSection = {
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
-    "Discuss a project or just want to say hi? My Inbox is open for all.",
+    "Want to discuss a project or just say hi? My Inbox is open for all.",
   number: "+254796733083",
   email_address: "naomijepkorir18@gmail.com"
 };

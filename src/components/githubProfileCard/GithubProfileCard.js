@@ -4,7 +4,7 @@ import SocialMedia from "../../components/socialMedia/SocialMedia";
 import {contactInfo, isHireable} from "../../portfolio";
 import emoji from "react-easy-emoji";
 import {Fade} from "react-reveal";
-import myImage from "../../assets/images/me.jpg";
+import myImage from "../../assets/images/me1.jpg";
 
 export default function GithubProfileCard({prof}) {
   if (isHireable) {
