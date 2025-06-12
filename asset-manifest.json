@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/naomi-jepkorir-kimaiyo/static/css/main.e8b7a04d.css",
+    "main.js": "/naomi-jepkorir-kimaiyo/static/js/main.a1d3138f.js",
+    "static/css/487.bb36206c.chunk.css": "/naomi-jepkorir-kimaiyo/static/css/487.bb36206c.chunk.css",
+    "static/js/487.7ae187c0.chunk.js": "/naomi-jepkorir-kimaiyo/static/js/487.7ae187c0.chunk.js",
+    "static/css/637.f0feb2ac.chunk.css": "/naomi-jepkorir-kimaiyo/static/css/637.f0feb2ac.chunk.css",
+    "static/js/637.1960fb21.chunk.js": "/naomi-jepkorir-kimaiyo/static/js/637.1960fb21.chunk.js",
+    "static/media/Montserrat-Regular.ttf": "/naomi-jepkorir-kimaiyo/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/me1.jpg": "/naomi-jepkorir-kimaiyo/static/media/me1.5a91ca9a0a3ab5a86c4a.jpg",
+    "static/media/Agustina.woff": "/naomi-jepkorir-kimaiyo/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/KabarakLogo.png": "/naomi-jepkorir-kimaiyo/static/media/KabarakLogo.2fee045a2f00ed4377c9.png",
+    "static/media/manOnTable.svg": "/naomi-jepkorir-kimaiyo/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/contactMailDark.svg": "/naomi-jepkorir-kimaiyo/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/naomi-jepkorir-kimaiyo/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/skill.svg": "/naomi-jepkorir-kimaiyo/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/pixelLogo.webp": "/naomi-jepkorir-kimaiyo/static/media/pixelLogo.68f4bd60c376c04bc697.webp",
+    "static/media/resume.pdf": "/naomi-jepkorir-kimaiyo/static/media/resume.f0f733dd3cd732b39262.pdf",
+    "static/media/agileLogo.webp": "/naomi-jepkorir-kimaiyo/static/media/agileLogo.106d5680197b1ac2a839.webp",
+    "index.html": "/naomi-jepkorir-kimaiyo/index.html",
+    "static/media/plpLogo.webp": "/naomi-jepkorir-kimaiyo/static/media/plpLogo.190a2ff75618c3e3411d.webp",
+    "static/media/talksCardBack.svg": "/naomi-jepkorir-kimaiyo/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.e8b7a04d.css.map": "/naomi-jepkorir-kimaiyo/static/css/main.e8b7a04d.css.map",
+    "main.a1d3138f.js.map": "/naomi-jepkorir-kimaiyo/static/js/main.a1d3138f.js.map",
+    "487.bb36206c.chunk.css.map": "/naomi-jepkorir-kimaiyo/static/css/487.bb36206c.chunk.css.map",
+    "487.7ae187c0.chunk.js.map": "/naomi-jepkorir-kimaiyo/static/js/487.7ae187c0.chunk.js.map",
+    "637.f0feb2ac.chunk.css.map": "/naomi-jepkorir-kimaiyo/static/css/637.f0feb2ac.chunk.css.map",
+    "637.1960fb21.chunk.js.map": "/naomi-jepkorir-kimaiyo/static/js/637.1960fb21.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8b7a04d.css",
+    "static/js/main.a1d3138f.js"
+  ]
+}
