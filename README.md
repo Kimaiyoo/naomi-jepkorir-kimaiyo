@@ -39,7 +39,7 @@ I'm currently pursuing a **BSc in Computer Science** at **Kabarak University**, 
 
 - **Frontend:** React, SCSS, JavaScript
 - **Deployment:** GitHub Pages
-- **Tooling:** Git, Prettier, gh-pages
+- **Tooling:** Git, Prettier,gh-pages
 
 ---
 
@@ -64,10 +64,6 @@ developerFolio/
 - GitHub: [@Kimaiyoo](https://github.com/Kimaiyoo)
 
 - Email: naomijepkorir18@gmail.com
-
-## 📝 Acknowledgements
-
-Thanks to [@saadpasta](https://github.com/saadpasta) for creating the original [developerFolio](https://github.com/saadpasta/developerFolio) template that this project is based on.
 
 ## 📄 License
 
